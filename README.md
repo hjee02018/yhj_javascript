@@ -1,5 +1,5 @@
 # yhj_javascript
-자바스크립트 개발과정(기초부터다쓰기)
+웹페이지에 이력서 등록해보기
 <!DOCTYPE html>
 <html lang = "ko">
 <head>
